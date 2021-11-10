@@ -1,4 +1,4 @@
-<hi align="center">INSTAGRAM -- 2.0</h1>
+<h1 align="center">INSTAGRAM -- 2.0</h1>
 
 ### A FRONTEND DESIGN OF THE INSTAGRAM WEBSITE MADE BY SWASTIK
 

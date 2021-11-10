@@ -1,6 +1,6 @@
 import { getProviders, signIn } from "next-auth/react";
-import Header from '../../components/header'
 import Head from 'next/head'
+import Header from '../../components/Header'
 
 
 function signin({ providers }) {
